@@ -15,6 +15,7 @@
 		5D9EC46728C88E19006AB9AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D9EC46528C88E19006AB9AE /* LaunchScreen.storyboard */; };
 		5D9EC46A28C88E19006AB9AE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D9EC46928C88E19006AB9AE /* main.m */; };
 		5D9EC47228C88F99006AB9AE /* TDWDynamicHeightTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D9EC47128C88F99006AB9AE /* TDWDynamicHeightTableViewCell.m */; };
+		5D9EC47A28C8C606006AB9AE /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D9EC47928C8C606006AB9AE /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5D9EC46928C88E19006AB9AE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5D9EC47028C88F99006AB9AE /* TDWDynamicHeightTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TDWDynamicHeightTableViewCell.h; sourceTree = "<group>"; };
 		5D9EC47128C88F99006AB9AE /* TDWDynamicHeightTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TDWDynamicHeightTableViewCell.m; sourceTree = "<group>"; };
+		5D9EC47928C8C606006AB9AE /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		5D9EC44B28C88E18006AB9AE = {
 			isa = PBXGroup;
 			children = (
+				5D9EC47928C8C606006AB9AE /* LICENSE.txt */,
 				5D9EC45628C88E18006AB9AE /* DynamicHeightCell */,
 				5D9EC45528C88E18006AB9AE /* Products */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D9EC47A28C8C606006AB9AE /* LICENSE.txt in Resources */,
 				5D9EC46728C88E19006AB9AE /* LaunchScreen.storyboard in Resources */,
 				5D9EC46428C88E19006AB9AE /* Assets.xcassets in Resources */,
 				5D9EC46228C88E18006AB9AE /* Main.storyboard in Resources */,
